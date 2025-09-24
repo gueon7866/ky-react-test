@@ -1,6 +1,7 @@
 import './App.css'
 import Header from './components/Header'
-import main from './components/main.jsx';
+import Main from './components/Main.jsx';
+import { useState } from 'react'
 
 
 function App() {
